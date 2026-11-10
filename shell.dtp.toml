@@ -1,0 +1,4 @@
+[dtp]
+# How solid the glassy bar, the menus, the lists and the flyouts are, from 0
+# (clear) to 1 (opaque). Stock Omarchy uses 0.35. Read by the dtp plugins.
+glass-alpha = 0.55
