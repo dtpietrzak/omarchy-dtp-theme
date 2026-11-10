@@ -1,0 +1,10 @@
+[popups]
+# Shared by every bar flyout (dropdowns, OSD, popup cards): audio, Bluetooth,
+# Wi-Fi, display, agents and the rest. Flat, like the dtp menus. Role names
+# (background, foreground, accent) follow the theme's colors.toml.
+background       = "background"
+background-alpha = 1.0
+text             = "foreground"
+border           = "accent"
+border-alpha     = 1.0
+border-width     = 0
